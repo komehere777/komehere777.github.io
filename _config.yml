@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "air" #"contrast" # "air", "aqua", , "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   :  "ko-KR"
+locale                   : "ko-KR"
 title                    : "Endless Challenge"
 title_separator          : "-"
 subtitle                 : "Hungry new one"# site tagline that appears below site title in masthead
@@ -24,9 +24,9 @@ description              : "New normal & New standard"
 url                      : "komehere777.github.io"# the base hostname & protocol for your site e.g. "https://.github.io"
 baseurl                  : "/"# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "assets/images/dress1.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/dress1.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "master title" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -93,18 +93,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Kim sung hyun"
+  avatar           : "assets/images/dress1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul"
+  email            : "komehere777@knou.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      #url: "mailto:komehere777@knou.ac.kr" # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://komehere777.github.io"# url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
