@@ -289,4 +289,4 @@ defaults:
       author_profile: true
 
 header:
-  image: assets/images/unsplash1.jpg
+  - image: assets/images/unsplash1.jpg
