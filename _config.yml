@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Wavers - No money, No work!
 
 description: Stylish Jekyll Theme
 author:
@@ -24,7 +24,7 @@ author:
   twitter: komehere777
   pinterest: komehere777
   linkedin: komehere777
-  bio: ??
+  bio: 2019.11.18
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
